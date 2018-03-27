@@ -1,2 +1,2 @@
-# lztlzftlzt.github.io
+# My course projects at UFL
 Course Projects
